@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Welcome to Sample Web-Application !</h1>
+<h2> Build, Testing and Deployment is management with Microsoft Azure DevOps !!</h2>
+<h2> Thank you :)</h2>
