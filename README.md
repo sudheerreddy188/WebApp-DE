@@ -6,4 +6,4 @@ Edit 2: to trigger Azure- QA deployment pipeline.
 
 Edit 3: to trigger Azure- automation tests.
 
-Edit 4: to trigger Azure- Prod deployment pipeline
+Edit 4: to trigger Azure- Prod deployment pipeline.
